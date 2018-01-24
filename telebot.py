@@ -6,7 +6,7 @@ class BotHandler:
 
 
 def __init__(self, token):
-        self.token = token
+        self.token = 516160274:AAEgyfeASRRdb0_XFDxtAOTtxQsjJjkt1bo
         self.api_url = "https://api.telegram.org/bot{}/".format(token)
 
 
